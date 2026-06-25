@@ -36,3 +36,6 @@ The goal of this project was to design and implement a premium, interactive, and
 
 ## Outcome
 A lightweight, modern, and production-ready landing page that delivers a premium visual experience. The interface scales cleanly from small mobile displays up to widescreen monitors, maintaining structural integrity, proper alignment, and fast load times.
+
+## Live Demo
+     https://thiru-glitch-cmd.github.io/-OIBSIP_WebDevelopment-Desingn_Task-1/
